@@ -1,0 +1,12 @@
+{
+  "name": "mosquitoes",
+  "version": "0.0.0",
+  "description": "Simple and Flexible Input Masks",
+  "main": "index.js",
+  "author": "alexpods <alexey.podskrebyshev@gmail.com>",
+  "license": "MIT",
+  "repository": "alexpods/mosquitoes",
+  "files": [
+    "index.js"
+  ]
+}
